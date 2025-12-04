@@ -9,7 +9,5 @@ public class Class2Test {
 public void class1() {
 	// TODO Auto-generated method stub
     Reporter.log("*************Hiiii ***********",true);
-    Reporter.log("*************Hiiii ***********",true);
-Reporter.log("*************Hiiii ***********",true);
 }
 }
